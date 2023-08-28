@@ -14,5 +14,4 @@ Assignment - 2
 
 
 ## Screenshots
-
-![Online Event Registration2](https://github.com/rana-prodhania/events_online_registration/assets/78629825/7c3f8bf8-f6ef-4a02-be18-09612a2b6b29)
+![events-online-registration](https://github.com/rana-prodhania/events_online_registration/assets/78629825/2c47646e-14e3-4327-b68c-6abdbb70807a)
